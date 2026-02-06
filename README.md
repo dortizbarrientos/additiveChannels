@@ -1,5 +1,3 @@
-# additiveChannels
-Aimed for a Special Issue for GENETICS on Fitness Landscapes
 
 # Additive channels in curved fitness landscapes (v13)
 
